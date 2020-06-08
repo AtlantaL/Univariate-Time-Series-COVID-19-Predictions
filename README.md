@@ -1,4 +1,4 @@
-# Univariate Time Series Analysis: COVID-19 Predictions
+# Univariate Time Series Forecasting: COVID-19 Predictions
 
 **Author:** Atlanta Liu
 
